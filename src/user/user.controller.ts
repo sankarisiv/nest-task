@@ -10,5 +10,4 @@ export class UserController {
     data(){
         console.log("data getting successfully..")
     }
-
 }
